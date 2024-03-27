@@ -1,0 +1,15 @@
+.form-demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+
+}
+.form-demo .card {
+    min-width: 450px;
+}
+.form-demo .card .field {
+    margin-bottom: 1.5rem;
+}
+
+
